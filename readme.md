@@ -6,3 +6,5 @@
 [Laravel Inject Model In custroctor or not](https://stackoverflow.com/questions/53471100/should-i-inject-repository-class-or-model-class-in-controllers-constructor)
 
 [Save method](https://stackoverflow.com/questions/57494581/laravel-save-vs-saveorfail-real-difference-in-nutshell/57494785?noredirect=1#comment101461810_57494785)
+
+[JWT](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
