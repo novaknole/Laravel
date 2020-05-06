@@ -7,6 +7,4 @@
 
 [Save method](https://stackoverflow.com/questions/57494581/laravel-save-vs-saveorfail-real-difference-in-nutshell/57494785?noredirect=1#comment101461810_57494785)
 
-[JWT](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
-
 [Repository Pattern](https://vegibit.com/laravel-repository-pattern/)
