@@ -9,4 +9,4 @@
 
 [Repository Pattern](https://vegibit.com/laravel-repository-pattern/)
 
-[Eloquent Repositories] (https://adelf.tech/2019/read-eloquent-repositories)
+[Eloquent Repositories](https://adelf.tech/2019/read-eloquent-repositories)
