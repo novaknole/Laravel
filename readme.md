@@ -8,3 +8,5 @@
 [Save method](https://stackoverflow.com/questions/57494581/laravel-save-vs-saveorfail-real-difference-in-nutshell/57494785?noredirect=1#comment101461810_57494785)
 
 [Repository Pattern](https://vegibit.com/laravel-repository-pattern/)
+
+[Eloquent Repositories] (https://adelf.tech/2019/read-eloquent-repositories)
